@@ -1,24 +1,28 @@
-# 🔞 UNHIDENCONTENT
+# 🔥 UnhidenContent — Adult Site Platform
 
-Bem-vindo ao **UNHIDEN CONTENT**, uma plataforma moderna para conteúdos adultos (+18), com foco em privacidade, desempenho e design elegante.
+![banner](https://via.placeholder.com/1200x300?text=UnhidenContent+%F0%9F%94%9A)
 
-> 🚨 **ATENÇÃO:** Este repositório contém um projeto destinado exclusivamente a maiores de idade.  
-> Você deve ter no mínimo 18 anos para usar ou contribuir.
-
----
-
-## 📸 Screenshot
-
-![Screenshot](./screenshot.png)
+Bem-vindo ao **UnhidenContent**, uma plataforma web moderna, ousada e elegante para distribuição de conteúdo adulto (+18), construída para entregar **experiência, privacidade e performance**.
 
 ---
 
-## ✨ Funcionalidades
+## 🎯 Sobre o projeto
 
-✅ Conteúdo adulto responsivo e estilizado  
-✅ Compatível com todos os navegadores modernos  
-✅ Painel de administração para gerenciamento dos conteúdos  
-✅ Proteção básica de acesso com autenticação  
-✅ Layout minimalista com tema escuro
+> 🚨 **Aviso importante:** Este projeto contém e destina-se a conteúdos **exclusivamente para maiores de 18 anos**.  
+> Você deve ter pelo menos 18 anos (ou a maioridade em sua jurisdição) para acessar ou contribuir.
 
+O **UnhidenContent** nasceu da necessidade de um portal **seguro, leve, estiloso e responsivo**, para creators e consumidores de conteúdo adulto.
 
+---
+
+## 📸 Demonstração
+
+### Home page
+![Home](https://via.placeholder.com/800x400?text=Home+Page)
+
+### Painel de Admin
+![Admin](https://via.placeholder.com/800x400?text=Admin+Panel)
+
+---
+
+## 🚀 Visite Nosso Site
