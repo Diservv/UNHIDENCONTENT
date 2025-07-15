@@ -1,4 +1,4 @@
-# 🔞 PORNFLIX
+# 🔞 UNHIDENCONTENT
 
 Bem-vindo ao **UNHIDEN CONTENT**, uma plataforma moderna para conteúdos adultos (+18), com foco em privacidade, desempenho e design elegante.
 
@@ -21,12 +21,4 @@ Bem-vindo ao **UNHIDEN CONTENT**, uma plataforma moderna para conteúdos adultos
 ✅ Proteção básica de acesso com autenticação  
 ✅ Layout minimalista com tema escuro
 
----
 
-```## 🚀 Como rodar localmente```
-
-```bash```
-```git clone https://github.com/seu-usuario/MyAdultSite.git
-cd MyAdultSite
-npm install
-npm run dev
